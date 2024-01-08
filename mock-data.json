@@ -1,0 +1,1292 @@
+{
+  "Header": {
+    "Type": 2,
+    "MsgSeq": 153,
+    "MsgGuid": "ef5966df-4ceb-4bc5-8ce9-fbc47f5cc428",
+    "CreationDate": "2024-01-04T13:14:35.2141174Z",
+    "ServerTimestamp": 1704374075214
+  },
+  "Body": {
+    "Events": [
+      {
+        "FixtureId": 12048574,
+        "Fixture": {
+          "Subscription": null,
+          "Sport": {
+            "Id": 265917,
+            "Name": "Table Tennis"
+          },
+          "Location": null,
+          "League": null,
+          "LastUpdate": "2024-01-04T13:14:35.2141174Z",
+          "Participants": [
+            {
+              "Id": 52393963,
+              "Name": "Konstantin Klimenko",
+              "Position": "1"
+            },
+            {
+              "Id": 52456018,
+              "Name": "Vitalii Mukhin",
+              "Position": "2"
+            }
+          ]
+        },
+        "Livescore": {
+          "Scoreboard": {
+            "Status": 2,
+            "CurrentPeriod": 4,
+            "Time": "-1",
+            "Results": [
+              {
+                "Position": "1",
+                "Value": "2"
+              },
+              {
+                "Position": "2",
+                "Value": "1"
+              }
+            ]
+          },
+          "Periods": [
+            {
+              "Type": 1,
+              "IsFinished": true,
+              "IsConfirmed": true,
+              "Results": [
+                {
+                  "Position": "1",
+                  "Value": "11"
+                },
+                {
+                  "Position": "2",
+                  "Value": "8"
+                }
+              ],
+              "Incidents": [
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "11"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "8"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "8"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "6"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "1"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "2"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "3"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "3"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "7"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "6"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "5"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "6"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "10"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "7"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "10"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "6"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "3"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "5"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "2"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "2"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "3"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "2"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "4"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "6"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "6"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "6"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "4"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "5"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "3"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "4"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "1"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "0"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "1"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "1"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "10"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "8"
+                    }
+                  ]
+                },
+                {
+                  "Period": 1,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "9"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "6"
+                    }
+                  ]
+                }
+              ],
+              "SubPeriods": null,
+              "SequenceNumber": 1
+            },
+            {
+              "Type": 2,
+              "IsFinished": true,
+              "IsConfirmed": true,
+              "Results": [
+                {
+                  "Position": "1",
+                  "Value": "8"
+                },
+                {
+                  "Position": "2",
+                  "Value": "11"
+                }
+              ],
+              "Incidents": [
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "11"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "11"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "18"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "15"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "17"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "15"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "11"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "12"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "19"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "15"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "13"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "14"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "13"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "13"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "16"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "15"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "15"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "15"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "14"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "14"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "15"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "14"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "19"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "17"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "19"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "19"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "11"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "10"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "13"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "12"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "12"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "12"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "11"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "9"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "19"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "18"
+                    }
+                  ]
+                },
+                {
+                  "Period": 2,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "19"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "16"
+                    }
+                  ]
+                }
+              ],
+              "SubPeriods": null,
+              "SequenceNumber": 2
+            },
+            {
+              "Type": 3,
+              "IsFinished": true,
+              "IsConfirmed": true,
+              "Results": [
+                {
+                  "Position": "1",
+                  "Value": "11"
+                },
+                {
+                  "Position": "2",
+                  "Value": "8"
+                }
+              ],
+              "Incidents": [
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "29"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "27"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "24"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "24"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "28"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "26"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "21"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "21"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "26"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "25"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "27"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "26"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "24"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "23"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "24"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "22"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "23"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "22"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "19"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "20"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "20"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "21"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "24"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "25"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "26"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "26"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "25"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "25"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "20"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "20"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "22"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "22"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "29"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "26"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "21"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "22"
+                    }
+                  ]
+                },
+                {
+                  "Period": 3,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "30"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "27"
+                    }
+                  ]
+                }
+              ],
+              "SubPeriods": null,
+              "SequenceNumber": 3
+            },
+            {
+              "Type": 4,
+              "IsFinished": false,
+              "IsConfirmed": true,
+              "Results": [
+                {
+                  "Position": "1",
+                  "Value": "5"
+                },
+                {
+                  "Position": "2",
+                  "Value": "10"
+                }
+              ],
+              "Incidents": [
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "31"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "28"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "34"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "34"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "32"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "33"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "34"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "35"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "31"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "29"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "31"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "31"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "33"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "33"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "35"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "36"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "35"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "37"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "31"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "32"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "33"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "34"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "31"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "30"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "1",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "35"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "35"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "30"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "28"
+                    }
+                  ]
+                },
+                {
+                  "Period": 4,
+                  "IncidentType": 27,
+                  "Seconds": -1,
+                  "ParticipantPosition": "2",
+                  "Results": [
+                    {
+                      "Position": "1",
+                      "Value": "31"
+                    },
+                    {
+                      "Position": "2",
+                      "Value": "33"
+                    }
+                  ]
+                }
+              ],
+              "SubPeriods": null,
+              "SequenceNumber": 4
+            }
+          ],
+          "LivescoreExtraData": [
+            {
+              "Name": "Turn",
+              "Value": "2"
+            }
+          ]
+        },
+        "Markets": null
+      }
+    ]
+  }
+}
